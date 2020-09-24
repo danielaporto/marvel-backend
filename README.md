@@ -5,7 +5,7 @@ API Rest with node.js
 ### To clone project
 ```sh
     # https
-    git clone git+https://github.com/danielaporto/marvel-backend.git
+    git clone https://github.com/danielaporto/marvel-backend.git
 ```
 
 ### Environment variables
