@@ -1,0 +1,6 @@
+export { getAllCharacters } from './get-all-characters'
+export { getCharacterById } from './get-character-by-id'
+export { getComicsByCharacterId } from './get-comics-by-character-id'
+export { getEventsByCharacterId } from './get-events-by-character-id'
+export { getSeriesByCharacterId } from './get-series-by-character-id'
+export { getStoriesByCharacterId } from './get-stories-by-character-id'

@@ -1,0 +1,7 @@
+{
+  "all": true,
+  "include": ["src/**/*.js"],
+  "exclude": ["src/**/__tests__/**/*.spec.js"],
+  "reporter": ["lcov", "text"],
+  "report-dir": ".test_coverage"
+}
